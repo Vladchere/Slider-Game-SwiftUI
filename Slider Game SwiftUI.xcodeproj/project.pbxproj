@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8628B41D24D736AD007EF3B0 /* SliderUIKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8628B41C24D736AD007EF3B0 /* SliderUIKit.swift */; };
 		864FD2DC24D6E0750018996D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 864FD2DB24D6E0750018996D /* AppDelegate.swift */; };
 		864FD2DE24D6E0750018996D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 864FD2DD24D6E0750018996D /* SceneDelegate.swift */; };
 		864FD2E024D6E0750018996D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 864FD2DF24D6E0750018996D /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8628B41C24D736AD007EF3B0 /* SliderUIKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderUIKit.swift; sourceTree = "<group>"; };
 		864FD2D824D6E0750018996D /* Slider Game SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Slider Game SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		864FD2DB24D6E0750018996D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		864FD2DD24D6E0750018996D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				864FD2DB24D6E0750018996D /* AppDelegate.swift */,
 				864FD2DD24D6E0750018996D /* SceneDelegate.swift */,
 				864FD2DF24D6E0750018996D /* ContentView.swift */,
+				8628B41C24D736AD007EF3B0 /* SliderUIKit.swift */,
 				864FD2E124D6E0770018996D /* Assets.xcassets */,
 				864FD2E624D6E0770018996D /* LaunchScreen.storyboard */,
 				864FD2E924D6E0770018996D /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				864FD2DC24D6E0750018996D /* AppDelegate.swift in Sources */,
+				8628B41D24D736AD007EF3B0 /* SliderUIKit.swift in Sources */,
 				864FD2DE24D6E0750018996D /* SceneDelegate.swift in Sources */,
 				864FD2E024D6E0750018996D /* ContentView.swift in Sources */,
 			);
